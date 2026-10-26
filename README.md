@@ -31,7 +31,7 @@ Our teams bring together **engineering excellence, design thinking, and business
 
 | 📅 Founded | 🚀 Projects Delivered | 👥 Team Size | 🌍 Countries | ⭐ Satisfaction |
 |:-----------:|:---------------------:|:------------:|:------------:|:--------------:|
-| **2022** | **3+** | **10+ Experts** | **5+** | **98%** |
+| **2022** | **12+** | **10+ Experts** | **5+** | **98%** |
 
 </div>
 
