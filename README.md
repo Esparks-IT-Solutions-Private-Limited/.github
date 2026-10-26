@@ -257,11 +257,11 @@ We don't just build software — we build systems that **generate measurable res
 
 | | |
 |---|---|
-| 🚀 **Projects Delivered** | 20+ |
-| 👥 **Team Members** | 50+ |
-| 🌍 **Countries Served** | 15+ |
+| 🚀 **Projects Delivered** | 12+ |
+| 👥 **Team Members** | 10+ |
+| 🌍 **Countries Served** | 5+ |
 | ⭐ **Client Satisfaction** | 98% |
-| 📅 **Founded** | 2010 |
+| 📅 **Founded** | 2022 |
 
 ---
 
@@ -357,7 +357,7 @@ Whether you need a full product team or specialist engineers to augment your exi
 |---------|------|
 | 🌐 Website | [www.esparksit.com](https://www.esparksit.com) |
 | 📧 Email | [anika.rukhsar@esparksit.com](mailto:anika.rukhsar@esparksit.com) |
-| 📞 Phone | [+91 90650 18028](tel:+91 924 141 5941) |
+| 📞 Phone | [+91 924 141 5941](tel:+91 924 141 5941) |
 | 💼 LinkedIn | [linkedin.com/company/esparksit](https://www.linkedin.com/company/esparksit) |
 | 📅 Book a Call | [esparksit.com/book](https://www.esparksit.com/book) |
 
